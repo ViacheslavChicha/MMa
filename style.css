@@ -123,14 +123,13 @@ img{
 	margin: 0px;
 	position: absolute;
 	left: auto;
-	top: 965px;
+	top: 1000px;
 	text-align: center;
 	font-size: 35px;
 	letter-spacing: 2px;
 }
 
 .button {
- 
   background-color: white;
   border: none;
   border-radius: 50px;
