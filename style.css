@@ -1,0 +1,151 @@
+
+body {
+	background-color: #E79544;
+	background-color: #562B1B;
+	/*font-size: 140%;*/
+	font-family: Verdana, Arial, sans-serif;
+	color: white;
+}
+
+#container {
+	background-color: #2B3E93;
+	background-image: url(images/vintage-wallpaper.png);
+	margin: auto auto;
+	padding: 0px;
+	padding-top: 50px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	width: 940px;
+}
+
+.slash{
+	font-weight: 700;
+	float: left;
+	font-size: 330%;
+	letter-spacing: 0px;
+	color: #E79544;
+	margin-left: 60px;
+}
+.MMA_sq{
+	display: inline-block;
+		font-weight: bold;
+	background-color: #E79544;
+   border: none;
+   border-radius: 12px;
+   padding: 15px 10px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+ 	font-size: 30px;
+ 	
+ 	vertical-align: middle; 
+}
+.MMA{
+	display: inline-block;
+	font-size: 140%;
+	font-weight: bold;
+	width: 100px;
+	vertical-align: middle; 
+	padding-left: 10px;
+}
+.paragraph{
+	font-size: 130%;
+	width: 300px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 15px;
+}
+.MMA_block{
+	float: right;
+	margin-right: 70px;
+	vertical-align: middle;
+}
+
+p.topic{
+	font-size: 60px;
+	text-align: center;
+	line-height: 1em;
+	font-family: Arial, sans-serif;
+	padding-top: 60px;
+}
+
+.how{
+	background-color: #4A5FAF;
+	width: 440px;
+	border: none;
+	border-radius: 5px;
+	border-top: 10px solid #E79544;
+	border-top-color: #E79544;
+	text-align: center;
+	font-size: 30px;
+	position: relative;
+	left: 430px;
+	top: 30px;
+}
+.time{
+	display: inline-block;
+	border: 3px solid white;
+	border-radius: 30px;
+	margin: 20px 60px 0px 60px;
+	padding: 10px 15px;
+}
+.free {
+	font-style: bold;
+	margin-top: 15px;
+	padding: 5px 15px 20px 15px;
+}
+
+img{
+	position: relative;
+	top: -80px;
+	
+	padding-bottom: 0px;
+}
+ .desc{
+ 	font-size: 130%;
+ 	width: 280px;
+ 	position: relative;
+	left: 610px;
+	top: -240px;
+	border-left: 5px solid #562B1B;
+	padding-left: 10px;
+ }
+ .desc:first-letter{
+ 	color: #E79544;
+ }
+
+.go{
+	vertical-align: middle; 
+	background-color: #4A5FAF;
+	background-color: #E79544;
+	width: 940px;
+	height: 205px;
+	margin: 0px;
+	position: absolute;
+	left: auto;
+	top: 965px;
+	text-align: center;
+	font-size: 35px;
+	letter-spacing: 2px;
+}
+
+.button {
+ 
+  background-color: white;
+  border: none;
+  border-radius: 50px;
+  color: #562B1B;
+  padding: 18px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 0px 300px 30px 300px;
+
+}
+.button:hover {
+	box-shadow: 0 12px 16px 0 #562B1B, 0 17px 40px 0 rgba(0,0,0,0.19);
+}
+.button:active {
+	transform: translateY(4px);
+}
